@@ -18,3 +18,8 @@ Tambah File
 
 Tambah Directory
 - /captcha 
+
+## Sumber 
+https://codeigniter.com/userguide3/helpers/captcha_helper.html#using-the-captcha-helper
+
+https://www.youtube.com/watch?v=GK-ZSmfvS5k&ab_channel=rajaazian
