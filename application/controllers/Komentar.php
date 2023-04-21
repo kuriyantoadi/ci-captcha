@@ -11,7 +11,7 @@ class Komentar extends CI_Controller {
 			"img_width" => 160,
 			"img_height" => 30,
 			"border" => 4,
-			"expiration" => 30,
+			"expiration" => 30, //gambar otomatis terhapus
 			'word_length'   => 4,
 			'font_size'     => 30,
 			'pool'          => '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ',
